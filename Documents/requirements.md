@@ -225,3 +225,16 @@ Preference Match
 + Location Efficiency
 + Time Compatibility
 + Availability
+
+MVP:
+ Users
+ Groups
+ Trips
+ Preferences
+ Budgets
+ Activities
+ Compatibility scoring
+ Recommendations
+ Itinerary generation
+ Replace activity
+ Recalculate budget
